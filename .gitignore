@@ -1,0 +1,7 @@
+.pio/
+.idea/
+__pycache__/
+*.py[cod]
+
+# Local credentials. Copy include/secrets.example.h to one of these names.
+include/[Ss]ecrets.h
